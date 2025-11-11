@@ -1,0 +1,65 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Fire - Trò chơi sinh tồn hấp dẫn</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f2f2f2; margin: 20px;">
+
+    <!-- Tiêu đề -->
+    <h1 style="color: #e67e22;">Garena Free Fire</h1>
+    <h2>Trò chơi bắn súng sinh tồn nổi tiếng toàn cầu</h2>
+
+    <!-- Giới thiệu -->
+    <p><strong>Free Fire</strong> là một tựa game bắn súng sinh tồn trên di động được phát triển bởi <em>Garena</em>. 
+    Người chơi nhảy dù xuống một hòn đảo, thu thập vũ khí, trang bị và chiến đấu để trở thành người sống sót cuối cùng.</p>
+
+    <!-- Danh sách đặc điểm -->
+    <h3>Đặc điểm nổi bật của Free Fire:</h3>
+    <ul>
+        <li>Trận đấu nhanh, mỗi trận chỉ kéo dài khoảng 10 phút.</li>
+        <li>Nhiều nhân vật với kỹ năng đặc biệt khác nhau.</li>
+        <li>Đa dạng bản đồ và chế độ chơi.</li>
+        <li>Cộng đồng người chơi đông đảo trên toàn thế giới.</li>
+    </ul>
+
+    <!-- Bảng nhân vật -->
+    <h3>Một số nhân vật nổi bật trong Free Fire</h3>
+    <table border="1" cellpadding="8" cellspacing="0" style="background-color: #fff;">
+        <tr style="background-color: #e67e22; color: white;">
+            <th>Tên nhân vật</th>
+            <th>Kỹ năng đặc biệt</th>
+            <th>Vai trò</th>
+        </tr>
+        <tr>
+            <td>Chrono</td>
+            <td>Tạo lá chắn năng lượng</td>
+            <td>Tấn công & Phòng thủ</td>
+        </tr>
+        <tr>
+            <td>Alok</td>
+            <td>Tăng tốc độ di chuyển và hồi máu</td>
+            <td>Hỗ trợ</td>
+        </tr>
+        <tr>
+            <td>Kelly</td>
+            <td>Tăng tốc độ chạy</td>
+            <td>Di chuyển nhanh</td>
+        </tr>
+    </table>
+
+    <!-- Hình ảnh -->
+    <h3>Hình ảnh trong game</h3>
+    <img src="https://cdn.oneesports.gg/cdn-data/2022/09/FreeFire_FFMAX_Garena.jpg" alt="Free Fire" width="500" style="border-radius: 10px;">
+
+    <!-- Liên kết -->
+    <h3>Tải trò chơi</h3>
+    <p>Bạn có thể tải <strong>Free Fire</strong> tại:
+        <a href="https://play.google.com/store/apps/details?id=com.dts.freefireth" target="_blank">Google Play</a> 
+        hoặc 
+        <a href="https://apps.apple.com/app/id1300146617" target="_blank">App Store</a>.
+    </p>
+
+</body>
+</html>
